@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VertixSMP.aternos.me
-",
+    "ip": "VertixSMP.aternos.me"
+
     "port": 50006,
     "version": "1.21.11",
     "try-creative": false
